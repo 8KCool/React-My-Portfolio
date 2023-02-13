@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/asstes/images/blackpanda.png" width="300" />
+  <img src="./src/assets/images/blackpanda.png" width="300" />
 </div>
 
 # Getting Started with Create React App
