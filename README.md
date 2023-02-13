@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="./src/asstes/images/blackpanda.png" width="300" />
 </div>
 
