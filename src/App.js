@@ -7,6 +7,8 @@ import Portfolio from './components/Portfolio'
 import Dashboard from './components/Dashboard'
 import './App.scss'
 
+
+// here is to start 
 function App() {
   return (
     <>
