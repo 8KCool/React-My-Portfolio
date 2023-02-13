@@ -1,4 +1,6 @@
-YouTube Tutorial on how I built this portfolio => https://youtu.be/ESHaail1eGc
+<div>
+  <img src="./src/asstes/images/blackpanda.png" width="300" />
+</div>
 
 # Getting Started with Create React App
 
