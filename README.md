@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./src/assets/images/blackpanda.png" width="300" />
 </div>
-
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
